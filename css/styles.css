@@ -507,4 +507,7 @@ a{
   border-radius: 2px;
   color: rgb(255, 255, 255) !important;
 }
-
+.starter a:hover{
+  color: black !important;
+  background-color: rgb(238, 255, 0);
+}
